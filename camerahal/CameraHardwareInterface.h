@@ -19,8 +19,8 @@
 
 #include <binder/IMemory.h>
 #include <utils/RefBase.h>
-#include <surfaceflinger/ISurface.h>
-#include <ui/OverlayHtc.h>
+#include <gui/ISurface.h>
+#include <ui/Overlay.h>
 #include <camera/Camera.h>
 #include <camera/CameraParameters.h>
 
